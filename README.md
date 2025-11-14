@@ -58,7 +58,7 @@
 
 ### 1. 克隆项目
 ```bash
-git clone [<项目地址>](https://github.com/HuaHungy/new-energy-carport-monitoring.git)
+git clone https://github.com/HuaHungy/new-energy-carport-monitoring.git
 cd new_energy_web
 ```
 
